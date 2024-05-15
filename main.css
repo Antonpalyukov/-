@@ -1,0 +1,155 @@
+*, 
+*::after,
+*::before{
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #ccc;
+}
+
+.firstscreen{
+    width: 100%;
+    height: 100vh;
+    position: relative;
+}
+
+.firstscreen video{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+    z-index: 15;
+}
+
+.firstscreenBody{
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    z-index: 20  ;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.606);
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.firstscreenBody .title{
+    font-family: sans-serif;
+    font-size: 60px;
+    font-weight: bold;
+    color: white;
+}
+
+.firstscreenBody .subtitle{
+    font-family: sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
+}
+
+.wrapper{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
